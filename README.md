@@ -10,6 +10,6 @@ this program  will play trailers of given websites when clicked on
 
 * `fork` the given three python files.
 * _Run_ `entertainment.py` which imports other two files(ie _media.py_ and _fresh_tomatoes.py_)
-
+* When the _html_ opens,click on the desired icon to watch its trailer.
 
 
